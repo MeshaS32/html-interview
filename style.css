@@ -6,10 +6,12 @@ h1{
 }
 li{
     font-style: italic;
-    margin: 10px;
+    margin: 10px; align-content: center;
 }
 img{ border-radius: 50px;
+    border: 10px solid black;
 }
 div{
-    background-color: bisque; 
+    background-color: rgb(199, 192, 183);
+     
 }
