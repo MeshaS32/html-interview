@@ -1,0 +1,15 @@
+.bordered { border: 5px solid blue;
+    padding: 25px;
+}
+h1{
+    font-family: cursive;
+}
+li{
+    font-style: italic;
+    margin: 10px;
+}
+img{ border-radius: 50px;
+}
+div{
+    background-color: bisque; 
+}
